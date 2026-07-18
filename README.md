@@ -34,4 +34,4 @@ npx cdk deploy
 
 ## 🖥️ Looking for the Website Code?
 The user interface and CI/CD deployment pipeline for the frontend are hosted in a separate repository.
-👉 Check out the web code here: [mickol66/aws_github](https://github.com)
+👉 Check out the web code here: [mickol66/aws_github](https://github.com/aws_github)
